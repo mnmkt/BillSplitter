@@ -69,6 +69,14 @@ body {
   right: 10px;
 }
 
+#btn.disabled {
+  opacity: 0.5;
+}
+
+#reset.hidden {
+  display: none;
+}
+
 /* margin説明
 四辺すべてに適用
 margin: 1em;
